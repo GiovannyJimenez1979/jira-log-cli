@@ -1,0 +1,3 @@
+# jira-log-cli no requiere librerias externas.
+# Usa solo modulos de la libreria estandar de Python 3.7+:
+# - argparse, os, sys, json, base64, datetime, urllib
